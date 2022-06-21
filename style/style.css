@@ -1,0 +1,15 @@
+.hide {
+    display: none;
+    position: relative;
+  }
+  .mydiv:hover + .hide {
+    display: block;
+    color: white;
+    display: inline;
+ 
+    
+  }
+  icon-font{
+width: 20px;
+height: 20px;
+  }
